@@ -4,3 +4,4 @@
 
 - Notre site est sur [https://www.duchess-france.fr/](https://www.duchess-france.fr/)
 - Notre [code de conduite est sur le site]([https://www.duchess-france.fr/](https://www.duchess-france.fr/coc/))
+- Les sources du blog sont sur [https://github.com/DuchessFrance/DuchessFrance.github.io](https://github.com/DuchessFrance/DuchessFrance.github.io)
